@@ -1,0 +1,4 @@
+com\tuling\Tulingvip05MsAlibabaSentinelPersistenceAhasOrderApplication.class
+com\tuling\config\WebConfig.class
+com\tuling\controller\OrderInfoController.class
+com\tuling\handler\GlobalExceptionHandler.class
